@@ -52,7 +52,3 @@ $ run the kernel
 #### License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 #### Do drop by a :star: if you like it!
-
-<p align="center">
-	With :heart: by <a href="" target="_blank">Emmadi Divya Srujana</a>
-</p>
